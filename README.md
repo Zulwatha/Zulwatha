@@ -27,7 +27,7 @@
 - **Server Management & DevOps:**
   - Windows Server (2008, 2012, 2016)
   - Linux System Administration
-  - cPanel & Plesk Management
+  - cPanel & Plesk & Hestia Management
   - Server Security & Optimization
 
 - **Databases:**
