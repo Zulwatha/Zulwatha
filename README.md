@@ -38,7 +38,6 @@
   - Linux System Administration
   - cPanel & Plesk & Hestia Management
   - Server Security & Optimization
-  - Basic Docker & CLI Ops
 
 - **Databases:**
 
