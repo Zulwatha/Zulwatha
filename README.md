@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Serhat!
 
-### 🚀 Developer | Tech Enthusiast | Server Management Specialist
+### 🌐 Software & IoT Developer | Server Integration | AI-Enhanced Systems
+
+---
+
+I enjoy building things that talk — between hardware and software, code and people.
+Whether it's a device, a dashboard, or a deployment, I like creating systems that just work.
 
 ---
 
 🔭 **Currently working on:**
-- Building innovative web applications
-- Getting deeper into low-level programming and memory management
-- Improving my skills in server management and DevOps
+- Designing systems that connect embedded control with backend infrastructure
+- Improving end-to-end automation and system-level coordination
+- Enhancing infrastructure and deployment workflows
 
 🌱 **Currently learning:**
 - Advanced C++ programming
 - System-level programming and integration
-
-🎯 **Want to learn soon:**
-- GoLang
-- Cloud infrastructure (AWS, Azure, Google Cloud)
-- Containerization with Docker & Kubernetes
 
 🛠️ **Technical Skills & Experiences:**
 
@@ -36,7 +36,6 @@
 - **Server Management & DevOps:**
   - Windows Server (2008, 2012, 2016)
   - Linux System Administration
-  - cPanel & Plesk & Hestia Management
   - Server Security & Optimization
 
 - **Databases:**
@@ -51,4 +50,5 @@
 
 📊 **GitHub Stats:**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zulwatha&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulwatha&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zulwatha&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulwatha&layout=compact&theme=dark)
