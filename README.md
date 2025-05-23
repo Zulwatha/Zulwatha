@@ -14,9 +14,10 @@ Whether it's a device, a dashboard, or a deployment, I like creating systems tha
 - Improving end-to-end automation and system-level coordination
 - Enhancing infrastructure and deployment workflows
 
-🌱 **Currently learning:**
-- Advanced C++ programming
-- System-level programming and integration
+🌱 Currently specializing in:
+- Applying AI models within production-level systems for intelligent control and analytics
+- Designing systems that interpret structured data to support automated decision-making
+- Exploring the intersection of intelligent systems, software architecture, and deployment strategy
 
 🛠️ **Technical Skills & Experiences:**
 
