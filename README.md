@@ -50,5 +50,4 @@ Whether it's a device, a dashboard, or a deployment, I like creating systems tha
 
 📊 **GitHub Stats:**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zulwatha&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulwatha&layout=compact&theme=dark)
