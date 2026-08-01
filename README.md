@@ -1,6 +1,6 @@
 <div align="center">
 
-# Serhat Tulek
+# Serhat Fatih Tulek
 
 **Software Engineer**
 
@@ -103,6 +103,7 @@ My work spans **IoT & embedded systems**, **full-stack web platforms**, **automa
 </tr>
 </table>
 
+---
 
 ### GitHub Stats
 
